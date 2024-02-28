@@ -1,4 +1,4 @@
-package com.example.task02;
+package com.example.crud_file_editor;
 
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
